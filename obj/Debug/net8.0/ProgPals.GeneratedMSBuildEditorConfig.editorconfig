@@ -22,5 +22,11 @@ build_property.EnableGeneratedComInterfaceComImportInterop =
 [F:/School/LSU/Degree/Semester 4 a - Fall/CSC 4330/ProgPals/App.axaml]
 build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
 
+[F:/School/LSU/Degree/Semester 4 a - Fall/CSC 4330/ProgPals/Views/GroupBrowser.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
 [F:/School/LSU/Degree/Semester 4 a - Fall/CSC 4330/ProgPals/Views/MainWindow.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[F:/School/LSU/Degree/Semester 4 a - Fall/CSC 4330/ProgPals/Views/UserProfile.axaml]
 build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml

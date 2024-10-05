@@ -7,6 +7,18 @@
       "RelativeMoniker": "D:0:0:{C8BEA81C-BD29-4CE5-8B9E-B5901F807F13}|ProgPals.csproj|solutionrelative:views\\mainwindow.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{C8BEA81C-BD29-4CE5-8B9E-B5901F807F13}|ProgPals.csproj|f:\\school\\lsu\\degree\\semester 4 a - fall\\csc 4330\\progpals\\views\\groupbrowser.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
+      "RelativeMoniker": "D:0:0:{C8BEA81C-BD29-4CE5-8B9E-B5901F807F13}|ProgPals.csproj|solutionrelative:views\\groupbrowser.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8BEA81C-BD29-4CE5-8B9E-B5901F807F13}|ProgPals.csproj|f:\\school\\lsu\\degree\\semester 4 a - fall\\csc 4330\\progpals\\views\\groupbrowser.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8BEA81C-BD29-4CE5-8B9E-B5901F807F13}|ProgPals.csproj|solutionrelative:views\\groupbrowser.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8BEA81C-BD29-4CE5-8B9E-B5901F807F13}|ProgPals.csproj|f:\\school\\lsu\\degree\\semester 4 a - fall\\csc 4330\\progpals\\views\\userprofile.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8BEA81C-BD29-4CE5-8B9E-B5901F807F13}|ProgPals.csproj|solutionrelative:views\\userprofile.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C8BEA81C-BD29-4CE5-8B9E-B5901F807F13}|ProgPals.csproj|f:\\school\\lsu\\degree\\semester 4 a - fall\\csc 4330\\progpals\\viewmodels\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C8BEA81C-BD29-4CE5-8B9E-B5901F807F13}|ProgPals.csproj|solutionrelative:viewmodels\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -18,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,6 +54,44 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GroupBrowser.axaml",
+              "DocumentMoniker": "F:\\School\\LSU\\Degree\\Semester 4 a - Fall\\CSC 4330\\ProgPals\\Views\\GroupBrowser.axaml",
+              "RelativeDocumentMoniker": "Views\\GroupBrowser.axaml",
+              "ToolTip": "F:\\School\\LSU\\Degree\\Semester 4 a - Fall\\CSC 4330\\ProgPals\\Views\\GroupBrowser.axaml",
+              "RelativeToolTip": "Views\\GroupBrowser.axaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-05T22:57:44.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GroupBrowser.axaml.cs",
+              "DocumentMoniker": "F:\\School\\LSU\\Degree\\Semester 4 a - Fall\\CSC 4330\\ProgPals\\Views\\GroupBrowser.axaml.cs",
+              "RelativeDocumentMoniker": "Views\\GroupBrowser.axaml.cs",
+              "ToolTip": "F:\\School\\LSU\\Degree\\Semester 4 a - Fall\\CSC 4330\\ProgPals\\Views\\GroupBrowser.axaml.cs",
+              "RelativeToolTip": "Views\\GroupBrowser.axaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T22:57:43.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserProfile.axaml.cs",
+              "DocumentMoniker": "F:\\School\\LSU\\Degree\\Semester 4 a - Fall\\CSC 4330\\ProgPals\\Views\\UserProfile.axaml.cs",
+              "RelativeDocumentMoniker": "Views\\UserProfile.axaml.cs",
+              "ToolTip": "F:\\School\\LSU\\Degree\\Semester 4 a - Fall\\CSC 4330\\ProgPals\\Views\\UserProfile.axaml.cs",
+              "RelativeToolTip": "Views\\UserProfile.axaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T22:14:34.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "MainWindow.axaml",
               "DocumentMoniker": "F:\\School\\LSU\\Degree\\Semester 4 a - Fall\\CSC 4330\\ProgPals\\Views\\MainWindow.axaml",
@@ -54,13 +104,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "MainWindowViewModel.cs",
               "DocumentMoniker": "F:\\School\\LSU\\Degree\\Semester 4 a - Fall\\CSC 4330\\ProgPals\\ViewModels\\MainWindowViewModel.cs",
               "RelativeDocumentMoniker": "ViewModels\\MainWindowViewModel.cs",
               "ToolTip": "F:\\School\\LSU\\Degree\\Semester 4 a - Fall\\CSC 4330\\ProgPals\\ViewModels\\MainWindowViewModel.cs",
               "RelativeToolTip": "ViewModels\\MainWindowViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-05T21:07:28.402Z",
               "EditorCaption": ""

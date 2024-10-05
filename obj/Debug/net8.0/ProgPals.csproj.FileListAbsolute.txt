@@ -66,3 +66,4 @@ F:\School\LSU\Degree\Semester 4 a - Fall\CSC 4330\ProgPals\obj\Debug\net8.0\refi
 F:\School\LSU\Degree\Semester 4 a - Fall\CSC 4330\ProgPals\obj\Debug\net8.0\ProgPals.csproj.Up2Date
 F:\School\LSU\Degree\Semester 4 a - Fall\CSC 4330\ProgPals\obj\Debug\net8.0\ProgPals.genruntimeconfig.cache
 F:\School\LSU\Degree\Semester 4 a - Fall\CSC 4330\ProgPals\obj\Debug\net8.0\ref\ProgPals.dll
+F:\School\LSU\Degree\Semester 4 a - Fall\CSC 4330\ProgPals\obj\Debug\net8.0\ProgPals.sourcelink.json
